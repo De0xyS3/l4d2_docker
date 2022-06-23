@@ -11,6 +11,6 @@ services:
       - PLAYERS=12
       - MAP=c2m1_highway
       - MODE=coop
-      #- STEAMID=STEAM_0:1:165453995
+      #- STEAMID=STEAM_0:1:123456
       #- STEAMNAME=DONQUIXOTE
 ##MODE = "coop, versus, mutation"
