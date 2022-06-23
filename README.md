@@ -2,7 +2,7 @@
  
 ## Description
 
-left 4 dead container with metamod and sourcemod
+left 4 dead container with metamod V1.11 and sourcemod V1.10
 
 ## Installation PLugins
 
